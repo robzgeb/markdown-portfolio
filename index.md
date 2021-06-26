@@ -1,21 +1,13 @@
 ---
 layout: default
 ---
-
-{% include 01-name.md %}
-
-<br>
-
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
-
-<br>
-
-{% include 04-lists.md %}
-
-<br>
-
-{% include 05-emphasis.md %}
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
